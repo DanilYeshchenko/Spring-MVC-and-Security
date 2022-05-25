@@ -10,7 +10,7 @@
 
     <properties>
         <spring-framework-version>4.0.5.RELEASE</spring-framework-version>
-        <spring-security-version>4.0.1.RELEASE</spring-security-version>
+        <spring-security-version>5.5.7</spring-security-version>
         <hibernate.version>4.3.5.Final</hibernate.version>
     </properties>
 
